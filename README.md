@@ -1,4 +1,5 @@
-🧑‍💻 AI-Assisted Coding Projects 🎮
+🧑‍💻 **AI-Assisted Coding Projects** 🎮
+
 Welcome to my GitHub! This is a space where I experiment with AI-assisted coding, creating simple and fun projects that showcase how AI can help in writing code.
 
 What You'll Find Here:
